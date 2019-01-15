@@ -1,7 +1,7 @@
 # Site settings
 title: Payman Blog
 SEOTitle: 付钱的博客 | Payman Blog
-header-img: img/post-bg-desk.jpg
+# header-img: img/post-bg-desk.jpg
 email: 694672625@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, Payman Blog, 付钱的博客, 后台开发"
